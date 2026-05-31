@@ -1,5 +1,5 @@
 # Constellation Graph Explorer
-INFO-H 501 – Final Project
+Data Science INFO-H 501 – Final Project
 
 ## Overview
 This project builds an interactive Streamlit web application that visualizes the night sky using a simplified subset of the Gaia DR3 star catalog. Users can:
